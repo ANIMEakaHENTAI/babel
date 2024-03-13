@@ -2,6 +2,12 @@
     <string name="app_name">Practice</string>
     <string name="onb_text_1">Quick Delivery At Your \n Doorstep</string>
     <string name="onb_text_2">Enjoy quick pick-up and delivery to \n your destination</string>
+    <string name="onb2_text_1">Flexible Payment</string>
+    <string name="onb2_text_2">Different modes of payment either \n before and after delivery without \n stress</string>
+    <string name="onb3_text_1">Real-time Tracking</string>
+    <string name="onb3_text_2">Track your packages/items from the \n comfort of your home till final destination</string>
+    <string name="onb3_text_3">Already have an account?Sign in</string>
     <string name="button_text1">Skip</string>
     <string name="button_text2">Next</string>
+    <string name="button_text3">Sign Up</string>
 </resources>
