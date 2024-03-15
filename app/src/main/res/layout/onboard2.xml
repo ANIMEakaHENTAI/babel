@@ -7,7 +7,7 @@
     tools:context=".OnBoardings2">
 
     <LinearLayout
-        android:layout_width="409dp"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"
@@ -24,7 +24,8 @@
             android:id="@+id/imageView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/onboard2" />
+            app:srcCompat="@drawable/onboard2"
+            />
 
         <TextView
             android:id="@+id/textView4"
@@ -35,7 +36,6 @@
             android:textColor="@color/text1"
             android:textSize="24sp"
             android:textStyle="bold"
-
             />
 
         <TextView
@@ -64,7 +64,8 @@
                 android:background="@drawable/white_button_hover"
                 android:text="@string/button_text1"
                 android:textAllCaps="false"
-                android:textColor="@drawable/blue_text_hover" />
+                android:textColor="@drawable/blue_text_hover"
+                />
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/button4"
@@ -76,7 +77,9 @@
                 android:background="@drawable/blue_button_hover"
                 android:text="@string/button_text2"
                 android:textAllCaps="false"
-                android:textColor="@drawable/white_text_hover" />
+                android:textColor="@drawable/white_text_hover"
+                />
+
         </LinearLayout>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
